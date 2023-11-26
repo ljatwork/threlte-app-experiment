@@ -1,0 +1,81 @@
+{
+	"datasets": [
+		{
+			"cluster_label": "Solar System",
+			"data": [
+				{
+					"label": "Sun",
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"radius": 30,
+					"image": "sun"
+				},
+				{
+					"label": "Mercury",
+					"x": 1,
+					"y": 0,
+					"z": 10,
+					"radius": 5,
+					"image": "mercury"
+				},
+				{
+					"label": "Venus",
+					"x": 5,
+					"y": 10,
+					"z": 0,
+					"radius": 8,
+					"image": "venus"
+				},
+				{
+					"label": "Earth",
+					"x": 10,
+					"y": 0,
+					"z": 0,
+					"radius": 10,
+					"image": "earth"
+				},
+				{
+					"label": "Mars",
+					"x": 15,
+					"y": 0,
+					"z": 0,
+					"radius": 7,
+					"image": "mars"
+				},
+				{
+					"label": "Jupiter",
+					"x": 22,
+					"y": 0,
+					"z": 0,
+					"radius": 20,
+					"image": "juperter"
+				},
+				{
+					"label": "Saturn",
+					"x": 30,
+					"y": 0,
+					"z": 0,
+					"radius": 18,
+					"image": "saturn"
+				},
+				{
+					"label": "Uranus",
+					"x": 38,
+					"y": 0,
+					"z": 0,
+					"radius": 15,
+					"image": "uranus"
+				},
+				{
+					"label": "Neptune",
+					"x": 45,
+					"y": 0,
+					"z": 0,
+					"radius": 14,
+					"image": "neptune"
+				}
+			]
+		}
+	]
+}
